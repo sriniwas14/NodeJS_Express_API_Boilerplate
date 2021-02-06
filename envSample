@@ -1,0 +1,11 @@
+PORT=3000
+JWT_KEY=keyfortheapp
+JWT_EXPIRATION=10h
+MAIL_USER=sender@example.com
+MAIL_PASS=PASSWORDFORMAIL
+MAIL_FROM=sender@example.com
+SITE_URL=http://localhost/
+DB_HOST=localhost
+DB_PASS=1234
+DB_NAME=name_of_database
+DB_USER=database_user
